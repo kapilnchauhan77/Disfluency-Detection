@@ -1,5 +1,7 @@
 # Disfluency Detection
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disfl-qa-a-benchmark-dataset-for/text-classification-on-disfl-qa)](https://paperswithcode.com/sota/text-classification-on-disfl-qa?p=disfl-qa-a-benchmark-dataset-for)
+
 Inspired by the finetuning approach showcased in [this blog.](https://ai.googleblog.com/2022/06/identifying-disfluencies-in-natural.html)
 
 This model uses [Disfl-QA](https://arxiv.org/pdf/2106.04016v1.pdf) which aggregates disflenct text as well as cleaned text, allowing us to create a binary classifier that classifies if a given sentence contains disfluency measures or not.
